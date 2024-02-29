@@ -27,11 +27,6 @@ To compile the CCalc application, use the following command:
 gcc -o ccalc app.c `pkg-config --cflags --libs gtk+-3.0`
 ```
 
-To execute it:
-```bash
-./ccalc
-```
-
 Make sure you have the GTK library installed on your system before compiling the application.
 
 ## Dependencies
@@ -41,7 +36,10 @@ Make sure you have the GTK library installed on your system before compiling the
 ## Usage Example
 
 1. Compile the application using the provided compilation command.
-2. Run the compiled executable (`ccalc`).
+2. Run the compiled executable (`ccalc`):
+```bash
+./ccalc
+```
 3. Use the buttons to input numbers and perform calculations.
 4. Click "Enter (E)" to display the result.
 
