@@ -46,4 +46,3 @@ Make sure you have the GTK library installed on your system before compiling the
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
