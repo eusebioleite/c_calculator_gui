@@ -3,6 +3,8 @@
 
 CCalc is a simple calculator application built using the GTK library in C. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+![image](https://github.com/eusebioleite/c_calculator_gui/assets/43001205/7511af02-3085-4c34-8067-4666201df9a9)
+
 Even though it is a simple calculator, programming it wasn't simple at all, compared to pycalc, C was a lot more verbose, and it was new for me the ways C handles memory.
 ## Features
 
