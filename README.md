@@ -1,4 +1,4 @@
-```
+
 # CCalc - Simple Calculator using GTK
 
 CCalc is a simple calculator application built using the GTK library in C. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division.
